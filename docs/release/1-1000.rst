@@ -1,0 +1,12 @@
+miniOS 1.0 Build 1000
+=====================
+
+Meta
+----
+
+- `Codice sorgente (src) <https://demenigeco.github.io/miniOS/src/v1.0/build-1000>`_
+- `Codice sorgente (GitHub) <https://github.com/DeMENIGECO/miniOS/tree/main/src/v1.0/build-1000>`_
+
+Primo rilascio di miniOS
+------------------------
+Questo è il primo rilascio di miniOS.
