@@ -1,6 +1,9 @@
 Releases
 ========
 
+1.x
+---
+
 .. toctree::
    :maxdepth: 1
 
